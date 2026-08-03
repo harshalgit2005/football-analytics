@@ -1,0 +1,115 @@
+league,league_code,stage,table_type,position,team_id,team_name,team_short_name,team_tla,played_games,won,draw,lost,points,goals_for,goals_against,goal_difference,form
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,1,5,FC Bayern München,Bayern,FCB,34,28,5,1,89,122,36,86,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,2,4,Borussia Dortmund,Dortmund,BVB,34,22,7,5,73,70,34,36,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,3,721,RB Leipzig,RB Leipzig,RBL,34,20,5,9,65,66,47,19,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,4,10,VfB Stuttgart,Stuttgart,VFB,34,18,8,8,62,71,49,22,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,5,2,TSG 1899 Hoffenheim,Hoffenheim,TSG,34,18,7,9,61,65,52,13,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,6,3,Bayer 04 Leverkusen,Leverkusen,B04,34,17,8,9,59,68,47,21,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,7,17,SC Freiburg,Freiburg,SCF,34,13,8,13,47,51,57,-6,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,8,19,Eintracht Frankfurt,Frankfurt,SGE,34,11,11,12,44,61,65,-4,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,9,16,FC Augsburg,Augsburg,FCA,34,12,7,15,43,45,61,-16,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,10,15,1. FSV Mainz 05,Mainz,M05,34,10,10,14,40,44,53,-9,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,11,28,1. FC Union Berlin,Union Berlin,UNB,34,10,9,15,39,44,58,-14,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,12,18,Borussia Mönchengladbach,M'gladbach,BMG,34,9,11,14,38,42,53,-11,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,13,7,Hamburger SV,HSV,HSV,34,9,11,14,38,40,54,-14,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,14,1,1. FC Köln,1. FC Köln,KOE,34,7,11,16,32,49,63,-14,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,15,12,SV Werder Bremen,Bremen,SVW,34,8,8,18,32,37,60,-23,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,16,11,VfL Wolfsburg,Wolfsburg,WOB,34,7,8,19,29,45,69,-24,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,17,44,1. FC Heidenheim 1846,Heidenheim,HEI,34,6,8,20,26,41,72,-31,Unknown
+Bundesliga,BL1,REGULAR_SEASON,TOTAL,18,20,FC St. Pauli 1910,St. Pauli,STP,34,6,8,20,26,29,60,-31,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,1,57,Arsenal FC,Arsenal,ARS,8,8,0,0,24,23,4,19,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,2,5,FC Bayern München,Bayern,FCB,8,7,0,1,21,22,8,14,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,3,64,Liverpool FC,Liverpool,LIV,8,6,0,2,18,20,8,12,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,4,73,Tottenham Hotspur FC,Tottenham,TOT,8,5,2,1,17,17,7,10,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,5,81,FC Barcelona,Barça,FCB,8,5,1,2,16,22,14,8,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,6,61,Chelsea FC,Chelsea,CHE,8,5,1,2,16,17,10,7,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,7,498,Sporting Clube de Portugal,Sporting CP,SPO,8,5,1,2,16,17,11,6,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,8,65,Manchester City FC,Man City,MCI,8,5,1,2,16,15,9,6,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,9,86,Real Madrid CF,Real Madrid,RMA,8,5,0,3,15,21,12,9,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,10,108,FC Internazionale Milano,Inter,INT,8,5,0,3,15,15,7,8,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,11,524,Paris Saint-Germain FC,PSG,PSG,8,4,2,2,14,21,11,10,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,12,67,Newcastle United FC,Newcastle,NEW,8,4,2,2,14,17,7,10,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,13,109,Juventus FC,Juventus,JUV,8,3,4,1,13,14,10,4,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,14,78,Club Atlético de Madrid,Atleti,ATL,8,4,1,3,13,17,15,2,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,15,102,Atalanta BC,Atalanta,ATA,8,4,1,3,13,10,10,0,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,16,3,Bayer 04 Leverkusen,Leverkusen,B04,8,3,3,2,12,13,14,-1,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,17,4,Borussia Dortmund,Dortmund,BVB,8,3,2,3,11,19,17,2,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,18,654,PAE Olympiakos SFP,Olympiakos,OLY,8,3,2,3,11,10,14,-4,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,19,851,Club Brugge KV,Club Brugge,BRU,8,3,1,4,10,15,17,-2,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,20,610,Galatasaray SK,Galatasaray,GAL,8,3,1,4,10,9,11,-2,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,21,548,AS Monaco FC,Monaco,ASM,8,2,4,2,10,8,14,-6,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,22,611,Qarabağ Ağdam FK,Qarabağ Ağdam,QAR,8,3,1,4,10,13,21,-8,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,23,5721,FK Bodø/Glimt,Bodø/Glimt,FK,8,2,3,3,9,14,15,-1,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,24,1903,Sport Lisboa e Benfica,SL Benfica,BEN,8,3,0,5,9,10,12,-2,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,25,516,Olympique de Marseille,Marseille,MAR,8,3,0,5,9,11,14,-3,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,26,11034,Paphos FC,Paphos FC,AEP,8,2,3,3,9,8,11,-3,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,27,3929,Royale Union Saint-Gilloise,Union SG,USG,8,3,0,5,9,8,17,-9,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,28,674,PSV,PSV,PSV,8,2,2,4,8,16,16,0,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,29,77,Athletic Club,Athletic,ATH,8,2,2,4,8,9,14,-5,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,30,113,SSC Napoli,Napoli,NAP,8,2,2,4,8,9,15,-6,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,31,1876,FC København,København,KOB,8,2,2,4,8,12,21,-9,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,32,678,AFC Ajax,Ajax,AJA,8,2,0,6,6,8,21,-13,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,33,19,Eintracht Frankfurt,Frankfurt,SGE,8,1,1,6,4,10,21,-11,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,34,930,SK Slavia Praha,Slavia Praha,SLP,8,0,3,5,3,5,19,-14,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,35,94,Villarreal CF,Villarreal,VIL,8,0,1,7,1,5,18,-13,Unknown
+Champions League,CL,GROUP_STAGE,TOTAL,36,10601,FK Kairat,FK Kairat,KAI,8,0,1,7,1,7,22,-15,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,1,81,FC Barcelona,Barça,FCB,38,31,1,6,94,95,36,59,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,2,86,Real Madrid CF,Real Madrid,RMA,38,27,5,6,86,77,35,42,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,3,94,Villarreal CF,Villarreal,VIL,38,22,6,10,72,72,46,26,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,4,78,Club Atlético de Madrid,Atleti,ATL,38,21,6,11,69,62,44,18,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,5,90,Real Betis Balompié,Real Betis,BET,38,15,15,8,60,59,48,11,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,6,558,RC Celta de Vigo,Celta,CEL,38,14,12,12,54,53,48,5,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,7,82,Getafe CF,Getafe,GET,38,15,6,17,51,32,38,-6,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,8,87,Rayo Vallecano de Madrid,Rayo Vallecano,RAY,38,12,14,12,50,41,44,-3,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,9,95,Valencia CF,Valencia,VAL,38,13,10,15,49,46,55,-9,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,10,92,Real Sociedad de Fútbol,Real Sociedad,RSO,38,11,13,14,46,59,61,-2,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,11,80,RCD Espanyol de Barcelona,Espanyol,ESP,38,12,10,16,46,43,55,-12,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,12,77,Athletic Club,Athletic,ATH,38,13,6,19,45,43,58,-15,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,13,285,Elche CF,Elche,ELC,38,10,13,15,43,49,57,-8,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,14,263,Deportivo Alavés,Alavés,ALA,38,11,10,17,43,44,56,-12,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,15,559,Sevilla FC,Sevilla FC,SEV,38,12,7,19,43,46,60,-14,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,16,79,CA Osasuna,Osasuna,OSA,38,11,9,18,42,44,50,-6,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,17,89,RCD Mallorca,Mallorca,MAL,38,11,9,18,42,47,57,-10,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,18,88,Levante UD,Levante,LEV,38,11,9,18,42,47,61,-14,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,19,298,Girona FC,Girona,GIR,38,9,14,15,41,39,55,-16,Unknown
+La Liga,PD,REGULAR_SEASON,TOTAL,20,1048,Real Oviedo,Real Oviedo,OVI,38,6,11,21,29,26,60,-34,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,1,57,Arsenal FC,Arsenal,ARS,38,26,7,5,85,71,27,44,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,2,65,Manchester City FC,Man City,MCI,38,23,9,6,78,77,35,42,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,3,66,Manchester United FC,Man United,MUN,38,20,11,7,71,69,50,19,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,4,58,Aston Villa FC,Aston Villa,AVL,38,19,8,11,65,56,49,7,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,5,64,Liverpool FC,Liverpool,LIV,38,17,9,12,60,63,53,10,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,6,1044,AFC Bournemouth,Bournemouth,BOU,38,13,18,7,57,58,54,4,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,7,71,Sunderland AFC,Sunderland,SUN,38,14,12,12,54,42,48,-6,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,8,397,Brighton & Hove Albion FC,Brighton Hove,BHA,38,14,11,13,53,52,46,6,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,9,402,Brentford FC,Brentford,BRE,38,14,11,13,53,55,52,3,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,10,61,Chelsea FC,Chelsea,CHE,38,14,10,14,52,58,52,6,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,11,63,Fulham FC,Fulham,FUL,38,15,7,16,52,47,51,-4,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,12,67,Newcastle United FC,Newcastle,NEW,38,14,7,17,49,53,55,-2,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,13,62,Everton FC,Everton,EVE,38,13,10,15,49,47,50,-3,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,14,341,Leeds United FC,Leeds United,LEE,38,11,14,13,47,49,56,-7,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,15,354,Crystal Palace FC,Crystal Palace,CRY,38,11,12,15,45,41,51,-10,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,16,351,Nottingham Forest FC,Nottingham,NOT,38,11,11,16,44,48,51,-3,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,17,73,Tottenham Hotspur FC,Tottenham,TOT,38,10,11,17,41,48,57,-9,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,18,563,West Ham United FC,West Ham,WHU,38,10,9,19,39,46,65,-19,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,19,328,Burnley FC,Burnley,BUR,38,4,10,24,22,38,75,-37,Unknown
+Premier League,PL,REGULAR_SEASON,TOTAL,20,76,Wolverhampton Wanderers FC,Wolverhampton,WOL,38,3,11,24,20,27,68,-41,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,5911,AC Monza,Monza,MON,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,586,Torino FC,Torino,TOR,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,98,AC Milan,Milan,MIL,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,115,Udinese Calcio,Udinese,UDI,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,7397,Como 1907,Como 1907,COM,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,107,Genoa CFC,Genoa,GEN,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,103,Bologna FC 1909,Bologna,BOL,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,112,Parma Calcio 1913,Parma,PAR,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,104,Cagliari Calcio,Cagliari,CAG,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,100,AS Roma,Roma,ROM,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,5890,US Lecce,Lecce,USL,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,454,Venezia FC,Venezia FC,VEN,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,471,US Sassuolo Calcio,Sassuolo,SAS,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,108,FC Internazionale Milano,Inter,INT,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,113,SSC Napoli,Napoli,NAP,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,102,Atalanta BC,Atalanta,ATA,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,109,Juventus FC,Juventus,JUV,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,470,Frosinone Calcio,Frosinone,FRO,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,110,SS Lazio,Lazio,LAZ,0,0,0,0,0,0,0,0,Unknown
+Serie A,SA,REGULAR_SEASON,TOTAL,1,99,ACF Fiorentina,Fiorentina,FIO,0,0,0,0,0,0,0,0,Unknown
