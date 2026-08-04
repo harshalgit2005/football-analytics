@@ -221,7 +221,7 @@ Connected Power BI directly to MySQL and created four interactive dashboards.
 # Dashboard 1 — Match Result Distribution
 
 <p align="center">
-<img src="images/match result distribution.png" width="100%">
+<img src="images/match result distribution.jpeg" width="100%">
 </p>
 
 This dashboard summarizes overall match outcomes, goal distribution, and home vs. away performance, providing an overview of league-wide trends.
@@ -231,7 +231,7 @@ This dashboard summarizes overall match outcomes, goal distribution, and home vs
 # Dashboard 2 — Top 10 Teams by Points
 
 <p align="center">
-<img src="images/top 10 teams by points.png" width="100%">
+<img src="images/top 10 teams by points.jpeg" width="100%">
 </p>
 
 This dashboard highlights the highest-performing clubs based on league points, enabling quick comparison of the strongest teams in the competition.
@@ -241,7 +241,7 @@ This dashboard highlights the highest-performing clubs based on league points, e
 # Dashboard 3 — Team Analysis
 
 <p align="center">
-<img src="images/team analysis.png" width="100%">
+<img src="images/team analysis.jpeg" width="100%">
 </p>
 
 Provides detailed team-level performance metrics including goals scored, goals conceded, wins, losses, draws, and overall efficiency.
@@ -251,7 +251,7 @@ Provides detailed team-level performance metrics including goals scored, goals c
 # Dashboard 4 — League Analysis
 
 <p align="center">
-<img src="images/league analysis.png" width="100%">
+<img src="images/league analysis.jpeg" width="100%">
 </p>
 
 Compares league-wide statistics, identifies scoring trends, and evaluates competitive balance across teams.
